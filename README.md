@@ -1,0 +1,2 @@
+# BarkodOtomasyon
+Barkod Uygulama
